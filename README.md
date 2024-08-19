@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My interest in software development stems from my desire to solve problems through code and to create scalable and efficient software solutions. I am actively enhancing my programming skills through online courses and personal projects. My technical background and hands-on experience in network engineering provide a unique perspective that I can bring to a software development role.
 
 - 👋 Hi, I'm @djustinandre
 - 🌱 I’m currently learning to build Fullstack MERN Apps.
