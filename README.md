@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I'm @djustinandre
+- 🌱 I’m currently learning to build Fullstack MERN Apps.
+- 📫 How to reach me: https://www.linkedin.com/in/j-deleon
