@@ -14,8 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My passion for software development comes from my desire to solve real-world problems through code and build scalable, efficient solutions. As a coding bootcamp instructor, I've been teaching Frontend Development and Data Analytics, and I’m continuously enhancing my skills in MERN stack development and Data Science.
+# 👋 Hi, I'm Justin Andre De Leon (@djustinandre)
 
-- 👋 Hi, I'm @djustinandre
-- 🌱 I’m currently learning to build Fullstack MERN Apps.
-- 📫 How to reach me: https://www.linkedin.com/in/j-deleon
+I'm a Computer Engineering student passionate about solving real-world problems through code and data. I'm currently focused on building my skills in Python, data analytics, and artificial intelligence.
+
+As I prepare for the Huawei Certified ICT Expert (HCIA) – AI certification, I'm working on an AI-powered project to help students navigate their career paths using Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs).
+
+---
+
+- 🌱 Currently learning AI development and working on my portfolio
+- 💡 In progress: Career Path Navigator – a student-focused RAG + LLM project
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/j-deleon)
+- 🛠️ Tech I use: Python, Pandas, SQL, HTML/CSS, JavaScript, Git
+
+> “Learning never exhausts the mind — it only fuels better questions.”
