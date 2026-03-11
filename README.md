@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Justin Andre De Leon (@djustinandre)
+# 👋 Hi, I'm Justin (@djustinandre)
 
 I'm a Computer Engineering student passionate about solving real-world problems through code and data. I'm currently focused on building my skills in Python, data analytics, and artificial intelligence.
 
