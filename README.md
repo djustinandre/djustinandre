@@ -24,7 +24,6 @@ As I prepare for the Huawei Certified ICT Expert (HCIA) – AI certification, I'
 
 - 🌱 Currently learning AI development and working on my portfolio
 - 💡 In progress: Career Path Navigator – a student-focused RAG + LLM project
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/j-deleon)
 - 🛠️ Tech I use: Python, Pandas, SQL, HTML/CSS, JavaScript, Git
 
 > “Learning never exhausts the mind — it only fuels better questions.”
